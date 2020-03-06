@@ -1,4 +1,4 @@
-package org.springicoxml;
+package org.springcontainer.xml;
 
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 

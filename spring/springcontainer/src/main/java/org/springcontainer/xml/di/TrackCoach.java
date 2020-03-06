@@ -1,4 +1,4 @@
-package org.springicoxml.dependencyinjection;
+package org.springcontainer.xml.di;
 
 public class TrackCoach implements Coach{
 

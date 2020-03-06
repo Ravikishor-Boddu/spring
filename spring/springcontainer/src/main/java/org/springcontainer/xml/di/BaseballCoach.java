@@ -1,6 +1,6 @@
-package org.springicoxml.dependencyinjection;
+package org.springcontainer.xml.di;
 
-import org.springicoxml.dependencyinjection.FortuneService;
+import org.springcontainer.xml.di.FortuneService;
 
 public class BaseballCoach implements Coach {
 

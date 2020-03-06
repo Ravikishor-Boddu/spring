@@ -1,4 +1,4 @@
-package org.springicoxml.dependencyinjection;
+package org.springcontainer.xml.di;
 
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 

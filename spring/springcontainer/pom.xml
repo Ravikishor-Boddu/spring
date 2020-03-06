@@ -10,9 +10,9 @@
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
 	<groupId>com</groupId>
-	<artifactId>springiocxml</artifactId>
+	<artifactId>springcontainer</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>springicoxml</name>
+	<name>springcontainer</name>
 	<url>http://maven.apache.org</url>
 
 	<properties>

@@ -41,6 +41,6 @@
 		</dependency>   
   </dependencies>
   <modules>
-  	<module>springicoxml</module>
+  	<module>springcontainer</module>
   </modules>
 </project>

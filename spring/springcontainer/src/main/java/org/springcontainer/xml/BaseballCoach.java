@@ -1,4 +1,4 @@
-package org.springicoxml;
+package org.springcontainer.xml;
 
 public class BaseballCoach implements Coach {
 
